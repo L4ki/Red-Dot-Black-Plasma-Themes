@@ -18,9 +18,7 @@
      id="defs4">
     <style
        type="text/css"
-       id="current-color-scheme">
-      }
-      </style>
+       id="current-color-scheme" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -29,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-12.79499"
-     inkscape:cy="20.109383"
+     inkscape:zoom="16.643577"
+     inkscape:cx="26.949815"
+     inkscape:cy="16.415422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,16 +37,15 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showborder="true"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -74,12 +71,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-904.36218)">
-    <path
-       id="event"
-       d="m 30,918.36218 -16,16 h 16 z"
-       style="opacity:1;fill:#151921;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-ButtonFocus"
-       sodipodi:nodetypes="cccc" />
+    <g
+       id="event">
+      <path
+         id="g17"
+         d="m 30,918.36218 -16,16 h 16 z"
+         style="opacity:1;fill:#cc0057;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ButtonFocus"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="g20"
+         d="m 30,926.3622 -8,8 h 8 z"
+         style="opacity:1;fill:#040506;fill-opacity:1;stroke:none;stroke-width:0.5"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ButtonFocus"
+         sodipodi:nodetypes="cccc" />
+    </g>
   </g>
 </svg>
