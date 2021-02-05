@@ -20,3 +20,11 @@ Plasma Themes
 Fixed icons: drive.svg, phone.svg
 
 Fixed widget: calendar.svg 
+
+Changelog: 05.02.2021.
+----------------------
+
+Plasma Themes
+--------------
+
+Fixed Icons: input.svg, update.svg, cantata.svg, system.svg
