@@ -28,3 +28,16 @@ Plasma Themes
 --------------
 
 Fixed Icons: input.svg, update.svg, cantata.svg, system.svg
+
+Changelog: 12.02.2021.
+------------------------
+
+Icons Themes
+-------------
+
+Icon correction: folder-black.svg 
+
+Plasma Themes
+--------------
+
+Added icons: plasmavault_error.avg, plasmavault.svg
