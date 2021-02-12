@@ -43,3 +43,9 @@ Plasma Themes
 --------------
 
 Added icons: plasmavault_error.avg, plasmavault.svg
+
+GTK-Theme
+---------
+
+Gtkrc file correction 
+
