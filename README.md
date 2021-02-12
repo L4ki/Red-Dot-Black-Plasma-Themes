@@ -35,7 +35,9 @@ Changelog: 12.02.2021.
 Icons Themes
 -------------
 
-Icon correction: folder-black.svg 
+Icon correction: folder-black.svg
+
+Added icons: folder-KaOS.svg
 
 Plasma Themes
 --------------
