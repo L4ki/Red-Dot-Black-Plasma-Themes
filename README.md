@@ -49,3 +49,21 @@ GTK-Theme
 
 Gtkrc file correction 
 
+Changelog: 20.02.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Fixed icon: radio-unchecked-hover.png
+
+Icons
+------
+
+Icons correction (actions 22)
+
+Plasma Themes
+-------------
+
+Fixed icons: scrollbar.svg, arrows.svg, viewitem.svg, plasmoidheading.svg
+
