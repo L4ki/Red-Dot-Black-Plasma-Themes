@@ -65,5 +65,7 @@ Icons correction (actions 22)
 Plasma Themes
 -------------
 
-Fixed icons: scrollbar.svg, arrows.svg, viewitem.svg, plasmoidheading.svg
+Fixed widgets: scrollbar.svg, arrows.svg, viewitem.svg, plasmoidheading.svg
+
+Fixed icon: audio.svg
 
