@@ -69,3 +69,24 @@ Fixed widgets: scrollbar.svg, arrows.svg, viewitem.svg, plasmoidheading.svg
 
 Fixed icon: audio.svg
 
+Changelog: 01.03.2021.
+----------------------
+
+GTK Theme
+---------
+
+Gtkrc file correction 
+
+Icons
+------
+
+Removed: breeze-icons-dark.rcc and breeze-icons.rcc
+
+Plasma Themes
+-------------
+
+Added Icons: kalarm.svg, kget.svg 
+
+
+
+
