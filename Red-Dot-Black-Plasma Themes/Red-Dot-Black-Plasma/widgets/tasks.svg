@@ -12,7 +12,7 @@
    height="800"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="tasks.svg">
   <sodipodi:namedview
      inkscape:object-nodes="true"
@@ -24,9 +24,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48511594"
-     inkscape:cx="600.5806"
-     inkscape:cy="524.85047"
+     inkscape:zoom="1.9404638"
+     inkscape:cx="326.28226"
+     inkscape:cy="598.22325"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -964,7 +964,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#3d0019;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="translate(202,-474)"
@@ -1563,7 +1563,7 @@
        transform="matrix(1,0,0,-1,202,1588.7244)"
        id="south-normal-bottom">
       <path
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816502"
+         style="opacity:1;fill:#3d0019;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816502"
          d="m 45,828.36222 h 40 v 2 H 45 Z"
          id="path7270-7-7-2"
          inkscape:connector-curvature="0" />
@@ -2320,7 +2320,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-0-6"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#3d0019;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="matrix(1,0,0,-1,202,1776.7244)"
@@ -2998,7 +2998,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-0-5"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#3d0019;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="matrix(0,1,1,0,-822.36218,380.36222)"
@@ -3676,7 +3676,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-0-5-2"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#3d0019;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="rotate(90,588.99999,969.36221)"
