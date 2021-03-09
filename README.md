@@ -87,6 +87,26 @@ Plasma Themes
 
 Added Icons: kalarm.svg, kget.svg 
 
+Changelog: 09.03.2021.
+-----------------------
+
+GTK_Theme
+---------
+
+Correction: gtk.css file 
+
+Icons
+------
+
+Correction: compass icons
+
+Plasma Themes
+--------------
+
+Added icon: compass.svg
+
+Fixed widget: tasks.svg 
+
 
 
 
