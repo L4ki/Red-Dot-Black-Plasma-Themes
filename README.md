@@ -107,6 +107,25 @@ Added icon: compass.svg
 
 Fixed widget: tasks.svg 
 
+Changelog: 26.03.2021.
+----------------------
+
+GTK Theme
+---------
+
+Gtkrc file correction 
+
+Icons
+-----
+
+Added icons: action (48 and 64)
+
+Plasma Themes
+--------------
+
+Fixed icons: disk.svg, drive.svg
+
+Added icons: manjaro.svg, pamac.svg
 
 
 
