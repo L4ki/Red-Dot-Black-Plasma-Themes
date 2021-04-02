@@ -127,5 +127,22 @@ Fixed icons: disk.svg, drive.svg
 
 Added icons: manjaro.svg, pamac.svg
 
+Changelog: 02.04.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Correction gtk.css file
+
+Icons
+-----
+
+Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit, folder-Pop_OS (16,22,24)
+
+Plasma Themes
+--------------
+
+Added icons: software.svg, quassel.svg, video-card.svg, utilities.svg
 
 
