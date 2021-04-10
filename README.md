@@ -145,4 +145,26 @@ Plasma Themes
 
 Added icons: software.svg, quassel.svg, video-card.svg, utilities.svg
 
+Changelog: 10.04.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: border.png, button.png, button-active.png
+
+Icons
+-----
+
+Added icons: image-missing.svg (status)
+
+Plasma Theme
+-------------
+
+Fixed widgets: viewitem.svg, clock.svg
+
+Added icons: document.svg, choqok.svg, choqok_offline.svg
+
+
+
 
