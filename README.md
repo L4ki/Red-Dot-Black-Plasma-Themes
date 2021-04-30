@@ -165,6 +165,24 @@ Fixed widgets: viewitem.svg, clock.svg
 
 Added icons: document.svg, choqok.svg, choqok_offline.svg
 
+Changelog: 30.04.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icon: menubar-item-active.png
+
+Icons
+------
+
+Added new icons: applets (256)
+
+Plasma Themes
+---------------
+
+Fixed icon: input.svg
+
 
 
 
