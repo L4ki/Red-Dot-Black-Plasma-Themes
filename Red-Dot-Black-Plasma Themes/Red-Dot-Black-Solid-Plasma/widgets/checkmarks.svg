@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:version="0.32"
    id="svg2"
    height="16"
@@ -132,14 +132,14 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="999"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="2.9092252"
-     inkscape:cx="7.9642653"
-     inkscape:zoom="16"
+     inkscape:cy="8.0686331"
+     inkscape:cx="18.010224"
+     inkscape:zoom="11.313709"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      objecttolerance="10"
@@ -180,7 +180,7 @@
        transform="matrix(0.75,0,0,0.75,-30.25,18.75)"
        id="radiobutton">
       <circle
-         style="fill:#b20048;fill-opacity:1;stroke:none;stroke-width:1.14286"
+         style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.14286"
          id="path1311-5"
          cx="79"
          cy="71"
@@ -199,15 +199,23 @@
          r="3.5" />
     </g>
     <g
-       style="fill:#17b58e;fill-opacity:1"
-       transform="matrix(0.75,0,0,0.75,-207.453,-110.25)"
        id="checkbox">
       <path
-         sodipodi:nodetypes="ssssssssscccccccc"
+         sodipodi:nodetypes="sssssssssccccccc"
          inkscape:connector-curvature="0"
          id="path4"
-         d="m 333.27734,235 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -12 c 0,-1.108 -0.892,-2 -2,-2 z m 9.22266,4 2.2,1.9 -6.1,6.489 -5.1,-4.389 1.9,-2.2 3.01016,2.64922 z"
-         style="fill:#b20048;fill-opacity:1" />
+         d="m 42.505005,66 c -0.831,0 -1.5,0.669 -1.5,1.5 v 9 c 0,0.831 0.669,1.5 1.5,1.5 h 9 c 0.831,0 1.5,-0.669 1.5,-1.5 v -9 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z M 49.422,69 Z"
+         style="fill:#b20048;fill-opacity:1;stroke-width:0.75" />
+      <path
+         style="color:#000000;text-indent:0;text-transform:none;direction:ltr;baseline-shift:baseline;fill:#d3dae3;fill-opacity:1;stroke-width:0.135855;enable-background:accumulate"
+         d="m 51.23633,68.635316 a 0.67935422,0.6793544 0 0 0 -0.466994,0.203783 l -5.01399,5.01399 -2.513357,-1.944469 a 0.67937314,0.67937332 0 1 0 -0.832128,1.074129 l 2.98886,2.309567 a 0.67935422,0.6793544 0 0 0 0.895802,-0.05518 l 5.434291,-5.434303 A 0.67935422,0.6793544 0 0 0 51.23633,68.635305 Z"
+         fill-opacity="1"
+         stroke="none"
+         marker="none"
+         visibility="visible"
+         display="inline"
+         overflow="visible"
+         id="path2" />
     </g>
   </g>
 </svg>
