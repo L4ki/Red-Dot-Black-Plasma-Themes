@@ -202,5 +202,27 @@ Plasma Theme
 Added icons: korgac.svg, kpackagekit.svg, slc.svg
 
 
+Changelog: 07.07.2021
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: treeview-separator-ltr.png, treeview-separator-rtl.png
+
+Icons
+------
+
+Changed icons: places (32,64), actions (32), apps
+
+Added new icons: status (16)
+
+Plasma Themes
+-------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Redesigned themes 
+
 
 
