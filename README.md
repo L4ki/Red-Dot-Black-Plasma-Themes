@@ -222,6 +222,8 @@ Plasma Themes
 
 Enable "Adaptive Transparency" for Plasma 5.22
 
+Redesigned themes 
+
 Changelog: 26.07.2021.
 ----------------------
 
@@ -234,8 +236,6 @@ Plasma Theme
 ------------
 
 Fixed icons: qbittorrent.svg, juk.svg
-
-Redesigned themes 
 
 
 
