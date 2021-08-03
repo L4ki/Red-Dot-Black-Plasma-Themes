@@ -237,7 +237,7 @@ Plasma Theme
 
 Fixed icons: qbittorrent.svg, juk.svg
 
-CVhangelog: 03.08.2021.
+Changelog: 03.08.2021.
 -----------------------
 
 Icons
