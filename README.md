@@ -250,4 +250,18 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 10.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Fixed widgets: checkmarks.svg, busywidget.svg
+
+
 
