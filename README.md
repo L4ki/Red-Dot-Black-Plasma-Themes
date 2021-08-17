@@ -274,6 +274,6 @@ Added new icons: actions (24)
 Plasma Theme
 ------------
 
-Fixed icons: kalarmm.svg, kaffeine.svg
+Fixed icons: kalarm.svg, kaffeine.svg
 
 
