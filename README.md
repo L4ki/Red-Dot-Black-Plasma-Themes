@@ -263,5 +263,17 @@ Plasma Theme
 
 Fixed widgets: checkmarks.svg, busywidget.svg
 
+Changelog: 17.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+------------
+
+Fixed icons: kalarmm.svg, kaffeine.svg
 
 
