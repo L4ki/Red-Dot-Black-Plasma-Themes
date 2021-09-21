@@ -289,3 +289,16 @@ Plasma Theme
 
 Fixed icons: preferences.svg, system.svg
 
+Changelog: 21.09.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (22, 24)
+
+Plasma Theme
+-------------
+
+Fixed widgets: scrollbar, svg, listitem.svg
+
