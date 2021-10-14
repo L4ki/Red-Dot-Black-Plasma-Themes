@@ -315,3 +315,12 @@ Plasma Theme
 
 Fixed icons: device.svg, disk.svg
 
+Changelog: 14.10.2021.
+----------------------
+
+Icons: added new icons: mimetypes (24)
+
+Plasma Theme
+-------------
+
+Fixed widget: action-overlays.svg
