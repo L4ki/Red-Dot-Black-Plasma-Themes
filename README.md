@@ -327,3 +327,16 @@ Plasma Theme
 -------------
 
 Fixed widget: action-overlays.svg
+
+Changelog: 21.10.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: mimetypes (16, 22,24, 32, 64))
+
+Plasma Theme
+-------------
+
+Fixed widgets: arrows.svg, background.svg
