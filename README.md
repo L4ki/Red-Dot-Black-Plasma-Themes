@@ -342,3 +342,16 @@ Plasma Theme
 Enabled Blurred Widgets for Plasma 5.23 
 
 Fixed widgets: arrows.svg, background.svg
+
+Changelog: 28.10.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+-------------
+
+Added new icon: activities.svg
