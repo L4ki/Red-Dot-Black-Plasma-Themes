@@ -382,4 +382,16 @@ Plasma Theme
 
 Fixed widget: clock.svg
 
+Changelog: 25.11.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Fixed widget: plasmoidheading.svg
 
