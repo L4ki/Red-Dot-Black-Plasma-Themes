@@ -395,3 +395,16 @@ Plasma Theme
 
 Fixed widget: plasmoidheading.svg
 
+Changelog: 08.12.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Update widget: lineedit.svg
+
