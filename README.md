@@ -408,3 +408,18 @@ Plasma Theme
 
 Update widget: lineedit.svg
 
+
+Changelog: 15.12.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: preferences
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
+
