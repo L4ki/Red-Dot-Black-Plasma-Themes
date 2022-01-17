@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="bar_meter_vertical.svg"
    id="svg2318"
    height="156"
    width="65"
-   version="1.0">
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:current-layer="svg2318"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="77.536971"
-     inkscape:cx="58.569117"
+     inkscape:cy="77.428196"
+     inkscape:cx="58.336312"
      inkscape:zoom="2.828427"
      showgrid="false"
      id="namedview76"
-     inkscape:window-height="1016"
+     inkscape:window-height="1006"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -33,8 +33,11 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false" />
   <metadata
      id="metadata4420">
     <rdf:RDF>
@@ -43,7 +46,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
