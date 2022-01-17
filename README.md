@@ -435,3 +435,16 @@ Plasma Theme
 
 Update widget: tooltip.svg
 
+Changelog: 17.01.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: action (48)
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.sv, bar_meter_vertical.svg
+
