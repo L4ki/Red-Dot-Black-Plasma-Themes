@@ -448,3 +448,18 @@ Plasma Theme
 
 Update widgets: bar_meter_horizontal.sv, bar_meter_vertical.svg
 
+
+Changelog: 24.01.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: status (16)
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
+
