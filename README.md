@@ -462,4 +462,17 @@ Plasma Theme
 
 Update widget: busywidget.svg
 
+Changelog: 12.03.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: devices (16)
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
 
